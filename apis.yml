@@ -1,7 +1,11 @@
 aid: mead-johnson-nutrition
-url: https://raw.githubusercontent.com/api-evangelist/mead-johnson-nutrition/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/mead-johnson-nutrition/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.mead-johnson-nutrition.com
+description: >-
+  Mead Johnson Nutrition was a manufacturer of infant formula and other pediatric
+  nutrition products before being acquired by Reckitt Benckiser.
