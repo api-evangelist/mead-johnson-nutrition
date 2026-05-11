@@ -19,6 +19,13 @@ apis: []
 common:
   - type: Website
     url: https://www.meadjohnson.com
+  - type: Integrations
+    url: https://www.meadjohnson.com/integrations
+integrations:
+  - name: Mead Johnson Nutrition
+  - name: reckitt.com
+  - name: enfamil.com
+  - name: meadjohnson
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
