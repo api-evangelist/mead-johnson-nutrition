@@ -17,6 +17,8 @@ tags:
   - Pediatric
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mead-johnson-nutrition
   - type: Website
     url: https://www.meadjohnson.com
   - type: Integrations
