@@ -17,6 +17,8 @@ tags:
   - Pediatric
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/mead-johnson-nutrition-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/mead-johnson-nutrition
   - type: Website
