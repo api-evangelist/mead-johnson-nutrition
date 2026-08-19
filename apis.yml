@@ -20,7 +20,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mead-johns
 url: https://raw.githubusercontent.com/api-evangelist/mead-johnson-nutrition/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 tags:
   - Consumer Goods
   - Infant Formula
