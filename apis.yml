@@ -39,6 +39,11 @@ tags:
   - Pediatric
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/reckitt/
+    name: Reckitt Benckiser
+    x-relationship: acquired
+    x-evidence: "Mead Johnson Nutrition was a manufacturer of infant formula and other pediatric nutrition products before being acquired by Reckitt Benckiser in 2017."
   - type: DomainSecurity
     url: security/mead-johnson-nutrition-domain-security.yml
   - type: LinkedIn
