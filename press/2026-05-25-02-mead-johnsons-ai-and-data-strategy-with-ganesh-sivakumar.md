@@ -1,7 +1,9 @@
 ---
 title: Mead Johnson's AI and data strategy with Ganesh Sivakumar
 url: https://www.linkedin.com/posts/aimresearch-ai_ai-datastrategy-meadjohnson-activity-7383426452341387264-vgV5
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mead Johnson Nutrition" press release artificial intelligence'
 position: 2
 source: serpapi-google

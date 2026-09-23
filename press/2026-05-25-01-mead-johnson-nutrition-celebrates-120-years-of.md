@@ -1,7 +1,9 @@
 ---
 title: Mead Johnson Nutrition Celebrates 120 Years of ...
 url: https://www.prnewswire.com/news-releases/mead-johnson-nutrition-celebrates-120-years-of-innovation-in-global-infant-nutrition-302542099.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Mead Johnson Nutrition" press release artificial intelligence'
 position: 1
 source: serpapi-google
