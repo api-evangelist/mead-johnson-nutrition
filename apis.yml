@@ -30,7 +30,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mead-johnson-nutrition.png
 url: https://raw.githubusercontent.com/api-evangelist/mead-johnson-nutrition/refs/heads/main/apis.yml
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Consumer Goods
@@ -39,6 +39,8 @@ tags:
   - Pediatric
 apis: []
 common:
+  - url: https://www.meadjohnson.com/blog/
+    type: Blog
   - type: ParentCompany
     url: https://apis.io/providers/reckitt/
     name: Reckitt Benckiser
